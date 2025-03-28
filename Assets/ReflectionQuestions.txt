@@ -1,0 +1,15 @@
+* Question: What challenges did you face when combining primitives to form complex objects. 
+
+Answer: I discovered how limited unity was ssince I couldnt customize the primitive models. 
+This cause me to think of other ways to create what I envisioned in my head.
+
+
+* Question: How did using materials enhance the appearance of your models?
+
+Answer: The materials gave more life and color to my models. 
+The default gray color was boring and the materials helped me to add more depth and realism to my models.
+
+* Question: What you improve or Add to your scene if given more time?
+
+Answer: I would add more details to the scene, like adding more objects, and maybe even add some animations
+I would also like to experiment with different materials and lighting to see how it affects the scene.
